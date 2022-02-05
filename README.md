@@ -10,6 +10,6 @@ My job as a data analyst is to go through the data to understand where the custo
 
 Analysis was done using MySQL and visualizations using Tableau.
 
-|[](https://github.com/ElvisTorres/Agents_Performance/blob/main/Dashboard.png)
+![](https://github.com/ElvisTorres/Agents_Performance/blob/main/Dashboard.png)
 
 Conclusions:
