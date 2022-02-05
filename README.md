@@ -15,7 +15,11 @@ Analysis was done using MySQL and visualizations using Tableau.
 Conclusions:
 
 •	The service provider agents' (experts) number of contacts was lower than that of the company's agents.
+
 •	Low contacts arise from many agents having zero contacts.
+
 •	Agents with zero contacts were screened out. This revealed that the service provider's agents engaging with the customers were being more productive than the companies own agents (also apparent when agents with at least ten contacts per hour were considered). 
+
 •	Overall performance could be improved if the agents with zero contacts performance were to be improved.
+
 •	Customer satisfaction was positively correlated with contact handling time, so this is an area that could be affected if the handling time were to be reduced to increase the number of contacts per hour in favor of revenue.
