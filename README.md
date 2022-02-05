@@ -13,6 +13,7 @@ Analysis was done using MySQL and visualizations using Tableau.
 ![](https://github.com/ElvisTorres/Agents_Performance/blob/main/Dashboard.png)
 
 Conclusions:
+
 •	The service provider agents' (experts) number of contacts was lower than that of the company's agents.
 •	Low contacts arise from many agents having zero contacts.
 •	Agents with zero contacts were screened out. This revealed that the service provider's agents engaging with the customers were being more productive than the companies own agents (also apparent when agents with at least ten contacts per hour were considered). 
